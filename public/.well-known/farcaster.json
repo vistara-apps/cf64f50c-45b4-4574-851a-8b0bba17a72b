@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "RallyTrade",
+    "subtitle": "Built with Zara",
+    "description": "RallyTrade is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://cf64f50c45b44574851a8b0bba17a72b-vw76-50ve9s8zn-vistara.vercel.app",
+    "splashImageUrl": "https://cf64f50c45b44574851a8b0bba17a72b-vw76-50ve9s8zn-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://cf64f50c45b44574851a8b0bba17a72b-vw76-50ve9s8zn-vistara.vercel.app/image.png",
+    "tagline": "RallyTrade",
+    "screenshotUrls": [
+      "https://cf64f50c45b44574851a8b0bba17a72b-vw76-50ve9s8zn-vistara.vercel.app/screenshot.png",
+      "https://cf64f50c45b44574851a8b0bba17a72b-vw76-50ve9s8zn-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://cf64f50c45b44574851a8b0bba17a72b-vw76-50ve9s8zn-vistara.vercel.app/api/webhook"
+  }
+}

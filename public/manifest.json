@@ -1,0 +1,14 @@
+{
+  "name": "RallyTrade",
+  "description": "RallyTrade is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://cf64f50c-45b4-4574-851a-8b0bba17a72b.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "RallyTrade",
+      "description": "RallyTrade is a Base Mini App built with Zara.",
+      "url": "https://cf64f50c-45b4-4574-851a-8b0bba17a72b.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
